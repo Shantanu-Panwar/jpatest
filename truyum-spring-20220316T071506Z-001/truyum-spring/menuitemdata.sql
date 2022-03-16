@@ -1,0 +1,1 @@
+insert into MENU_ITEM values(1 , "Sandwich" , 99.00 , "Yes" , 15-03-2017 , "Main Course" , "Yes" , "Edit" );
